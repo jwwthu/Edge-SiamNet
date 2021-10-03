@@ -1,2 +1,1 @@
-This is the repository for our study: Weiwei Jiang, Le Zhang. Edge-SiamNet and Edge-TripleNet: Deep Learning Models for Handwritten
-Numeral Recognition. 2019, for review. We add the data and models used in our study.
+This is the repository for our study: Weiwei Jiang, Le Zhang. Edge-SiamNet and Edge-TripleNet: New Deep Learning Models for Handwritten Numeral Recognition. IEICE Transactions on Information and Systems, 2020, 103(3): 720-723. [Link](https://www.jstage.jst.go.jp/article/transinf/E103.D/3/E103.D_2019EDL8199/_article). We add the data and models used in our study.
